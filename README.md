@@ -1,5 +1,7 @@
 # mani-diffy
 
+.
+
 ![Tests](https://github.com/chime/mani-diffy/actions/workflows/tests.yaml/badge.svg)
 
 This program walks a hierarchy of Argo CD Application templates, renders Kubernetes manifests from the input templates, and posts the rendered files back for the user to review and validate.
